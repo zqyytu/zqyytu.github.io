@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ziqiang Yu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ziqiang Yu"
+description              : &description "Professor at Yantai University | Data Intelligence, Video Retrieval, Distributed Computing
 url                      : https://ytu-zqyu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ytu-zqyu/ytu-zqyu.github.io"
@@ -22,17 +22,17 @@ repository               : "ytu-zqyu/ytu-zqyu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ziqiang Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Professor | Data Intelligence | Video & Graph Data Management | Distributed Computing"
+  location         : "Yantai, Shandong, China"
+  employer         : "Yantai University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zqy800@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://dl.acm.org/profile/99659200780"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
