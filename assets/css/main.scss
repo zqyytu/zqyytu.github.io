@@ -40,3 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 @import "custom";
+@media (min-width: 1024px) {
+  .page {
+    width: calc(100% - 300px) !important;
+    max-width: none !important;
+    padding-right: 40px !important;
+  }
+
+  .page__inner-wrap {
+    max-width: 1100px !important;
+  }
+
+  .page__content {
+    max-width: 1100px !important;
+  }
+}
