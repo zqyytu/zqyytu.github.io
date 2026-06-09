@@ -1,0 +1,19 @@
+// 自定义页面样式
+
+// 正文最大宽度
+.page__content {
+  max-width: 1000px;   // 可以调到 1100px 或 1200px
+}
+
+// Work Experience / Research Interests 等段落间距
+.page__content > * {
+  margin-bottom: 1.5em;
+}
+
+// 左侧 Sidebar 缩窄（可选）
+.sidebar {
+  width: 220px;
+}
+.page {
+  padding-left: 240px;  // 与 sidebar 宽度匹配
+}
