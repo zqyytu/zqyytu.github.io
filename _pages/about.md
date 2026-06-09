@@ -15,14 +15,17 @@ Work Experience
 - **2018.04 - 2019.04**, Assistant Researcher, York University
 - **2015.07 - 2020.01**, Lecturer, Jinan University
 
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **AI and Database Systems**: Leveraging database theories and techniques to enhance the training, reasoning, and generation capabilities of AI models.
+
+- **Spatio-Temporal Data Management and Analytics**: Developing efficient methods for querying, analyzing, and predicting large-scale spatio-temporal data.
+
+- **Structured Video Retrieval**: Integrating structured query techniques with Large Language Models (LLMs) to improve the efficiency and accuracy of cross-modal video retrieval.
+
+- **Distributed Computing for Massive Data**: Designing scalable distributed solutions for efficient search and processing of spatio-temporal and high-dimensional data.
+
+Our research findings have been published in premier international conferences and journals in the field of data science, including **SIGMOD, VLDB, ICDE, SIGIR, and TKDE**, which represent the highest level of research in the discipline. We warmly welcome highly motivated undergraduate and graduate students with strong academic aspirations and research interests to join our research group.
 
 Site-wide configuration
 ------
