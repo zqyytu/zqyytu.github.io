@@ -53,13 +53,13 @@ body {
   font-size: $type-size-4;
 }
 
-.page__content {
-  p, li, dl {
+.page__content p,
+.page__content li,
+.page__content dl {
     padding: 52px 52px !important;
     text-align: justify !important;
     text-justify: inter-word;
     hyphens: auto;
-  }
 }
 .page__hero {
   position: relative;
