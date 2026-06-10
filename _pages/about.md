@@ -21,13 +21,9 @@ Work Experience
 Research Interests
 ======
 - **AI and Database Systems**: Leveraging database theories and techniques to enhance the training, reasoning, and generation capabilities of AI models.
-
 - **Spatio-Temporal Data Management and Analytics**: Developing efficient methods for querying, analyzing, and predicting large-scale spatio-temporal data.
-
 - **Structured Video Retrieval**: Integrating structured query techniques with Large Language Models (LLMs) to improve the efficiency and accuracy of cross-modal video retrieval.
-
 - **Distributed Computing for Massive Data**: Designing scalable distributed solutions for efficient search and processing of spatio-temporal and high-dimensional data.
-
 Our research findings have been published in premier international conferences and journals in the field of data science, including **SIGMOD, VLDB, ICDE, SIGIR, and TKDE**, which represent the highest level of research in the discipline. We warmly welcome highly motivated undergraduate and graduate students with strong academic aspirations and research interests to join our research group.
 
 
