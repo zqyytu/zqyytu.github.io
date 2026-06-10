@@ -31,15 +31,10 @@ Our research findings have been published in premier international conferences a
 Representative Publications
 ======
 [1] Wei Liu, Ziqiang Yu*, Xiaohui Yu, Yang Liu, Simu Liu. A Robust and Globally-Accurate Hierarchical Hub Labeling Index for SP-Distance Queries in Dynamic Road Networks. In ICDE 2026. (CCF A会议，数据科学领域国际顶级会议)
-
 [2] Ziqiang Yu, Xiaohui Yu, Yueting Chen, Wei Liu, Anbang Song, Bolong Zheng. Flexible Keyword-Aware Top-k Route Search. Flexible Keyword-Aware Top-k Route Search.  IEEE Transactions on Knowledge and Data Engineering, 2025，37(12): 7184-7198.  ( CCF A类期刊，数据科学领域国际顶级期刊)
-
 [3] Yue Chen, Yinan Jing, Ziqiang Yu, Xiaohui Yu, Zhenying He, Kai Zhang, X. Sean Wang. ARC: Approximate Relevant Clip Query in Large-Scale Video Repositories. In SIGIR 2025. (CCF A类会议，信息检索领域国际顶级会议)
-
 [4] Ziqiang Yu, Xiaohui Yu, Nick Koudas, Yueting Chen, Yang Liu. A Distributed Solution for Efficient K Shortest Paths Computation Over Dynamic Road Networks. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(7): 2759-2773.  ( CCF A类期刊，数据科学领域国际顶级期刊)
-
 [5] Ziqiang Yu, Xiaohui Yu, Tao Zhou, Yueting Chen, Yang Liu, Bohan Li. ODIN: Object Density Aware Index for CkNN Queries over Moving Objects on Road Networks. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(11): 6758-6772.  ( CCF A类期刊，数据科学领域国际顶级期刊)
-
 [6] Ziqiang Yu, Xiaohui Yu, Nick Koudas, Yang Liu, Yifan Li, Yueting Chen, Dingyu Yang: Distributed Processing of k Shortest Path Queries over Dynamic Road Networks. In SIGMOD 2020.( CCF A类会议，数据科学领域国际顶级会议)
 
 [7] Ziqiang Yu, Yang Liu, Xiaohui Yu, Ken Q. Pu: Scalable Distributed Processing of K Nearest Neighbor Queries over Moving Objects. IEEE Transactions on Knowledge and Data Engineering. 27(5): 1383-1396 (2015)（CCF A类期刊，数据科学领域国际顶级期刊）
