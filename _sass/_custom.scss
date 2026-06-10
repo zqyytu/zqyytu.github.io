@@ -1,13 +1,13 @@
-// 自定义页面样式
+// ==============================
+// 自定义页面样式 (_custom.scss)
+// ==============================
 
 // 正文最大宽度
 .page__content {
-  max-width: 1500px;   // 可以调到 1100px 或 1200px
-   padding: 52px 52px !important;
-   text-align: justify !important;
+  max-width: 1500px;
 }
 
-// Work Experience / Research Interests 等段落间距
+// 段落和列表间距
 .page__content > * {
   margin-bottom: 1.5em;
 }
@@ -16,7 +16,24 @@
 .sidebar {
   width: 220px;
 }
+
+// 与 Sidebar 匹配的页面宽度
 .page {
-  padding: 52px 52px ;
-  text-align: justify ;
+  padding-left: 240px;  
+}
+
+// ==============================
+// 正文内边距 + 两端对齐
+.page__content,
+.page__content p,
+.page__content li,
+.page__content dl {
+  padding: 52px 52px !important;
+  text-align: justify !important;
+  text-justify: inter-word;  // 英文单词间距优化
+}
+
+// 如果希望最后一行也更美观（可选）
+.page__content p {
+  hyphens: auto;  // 自动断词
 }
