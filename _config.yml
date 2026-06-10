@@ -12,9 +12,9 @@ title                    : "Ziqiang Yu&#39;s Space"
 title_separator          : "-"
 name                     : &name "Ziqiang Yu"
 description              : &description "Professor at Yantai University | Data Intelligence, Video Retrieval, Distributed Computing"
-url                      : https://ytu-zqyu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zqyytu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ytu-zqyu/ytu-zqyu.github.io"
+repository               : "zqyytu/ytu-zqyu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
