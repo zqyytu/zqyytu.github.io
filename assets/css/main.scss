@@ -40,22 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 @import "custom";
-@media (min-width: 1024px) {
-  .page {
-    width: calc(100% - 300px) !important;
-    max-width: none !important;
-    padding-right: 40px !important;
-  }
-
-  .page__inner-wrap {
-    max-width: 1400px !important;
-  }
-
-  .page__content {
-    max-width: 1400px !important;
-  }
-}
 article.page {
-    padding: 52px 52px;
-    text-align: justify;
+    padding: 52px 52px !important;
+    text-align: justify !important;
 }
