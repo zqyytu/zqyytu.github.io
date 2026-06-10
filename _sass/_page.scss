@@ -24,14 +24,16 @@
   }
 
   .page__inner-wrap {
-    @include full();
+  @include full();
+  max-width: 1400px !important;   // 改成你希望的宽度
+  margin: 0 auto;                  // 居中页面
 
-    .page__content,
-    .page__meta,
-    .page__share {
-      @include full();
-    }
+  .page__content,
+  .page__meta,
+  .page__share {
+    @include full();
   }
+}
 }
 
 .page__title {
