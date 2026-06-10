@@ -105,6 +105,10 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+ padding: 52px 52px !important;
+ text-align: justify !important;
+ text-justify: inter-word; // 英文单词间距优化
+ hyphens: auto;            // 可选：自动断词
 }
 
 .page__hero {
