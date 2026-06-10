@@ -17,6 +17,9 @@
 }
 
 .page {
+  padding: 52px 52px !important;
+  text-align: justify !important;
+
   @include breakpoint($large) {
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
@@ -49,15 +52,8 @@
 }
 
 .page__content {
-   padding: 52px 52px !important;
-   text-align: justify !important;
-   text-justify: inter-word; // 英文单词间距优化
-   hyphens: auto;            // 可选：自动断词
-
- 
- 
+  text-align: justify !important;
 }
-
 .page__hero {
   position: relative;
   margin-bottom: 2em;
