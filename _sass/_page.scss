@@ -50,11 +50,13 @@
 
 .page__content {
 
-  
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
+  }
 
   p, li, dl {
-    padding: 52px 52px;
-    text-align: justify;
+    font-size: 1em;
   }
 
   /* paragraph indents */
@@ -396,8 +398,4 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
-}
-article.page {
-    padding: 52px 52px;
-    text-align: justify;
 }
