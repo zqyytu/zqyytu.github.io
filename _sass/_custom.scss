@@ -1,39 +1,40 @@
-// ==============================
-// 自定义页面样式 (_custom.scss)
-// ==============================
+// ----------------------------
+// 1️⃣ 宽度铺满右侧
+@media (min-width: 1024px) {
+  .page {
+    width: calc(100% - 250px) !important;  // Sidebar 约 250px
+    max-width: none !important;
+  }
 
-// 正文最大宽度
-.page__content {
-  max-width: 1500px;
+  .page__inner-wrap {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 auto;
+  }
+
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0;
+  }
 }
 
-// 段落和列表间距
-.page__content > * {
-  margin-bottom: 1.5em;
+// ----------------------------
+// 2️⃣ 调整段落与标题对齐、行间距
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  margin-bottom: 0.5em;    // 标题和段落距离
 }
 
-// 左侧 Sidebar 缩窄（可选）
-.sidebar {
-  width: 220px;
-}
-
-// 与 Sidebar 匹配的页面宽度
-.page {
-  padding-left: 240px;  
-}
-
-// ==============================
-// 正文内边距 + 两端对齐
-.page__content,
 .page__content p,
 .page__content li,
 .page__content dl {
-  padding: 52px 52px !important;
-  text-align: justify !important;
-  text-justify: inter-word;  // 英文单词间距优化
-}
-
-// 如果希望最后一行也更美观（可选）
-.page__content p {
-  hyphens: auto;  // 自动断词
+  margin-top: 0.5em;       // 段落间距更紧凑
+  margin-bottom: 0.5em;
+  padding: 0;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  line-height: 1.5;        // 调整行高，让文字更紧凑
 }
