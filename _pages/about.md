@@ -30,73 +30,64 @@ Our research findings have been published in premier international conferences a
 
 Representative Publications
 ======
-[1] Wei Liu, Ziqiang Yu*, Xiaohui Yu, Yang Liu, Simu Liu. A Robust and Globally-Accurate Hierarchical Hub Labeling Index for SP-Distance Queries in Dynamic Road Networks. In ICDE 2026. (CCF A会议，数据科学领域国际顶级会议)
+[1] Wei Liu, Ziqiang Yu*, Xiaohui Yu, Yang Liu, Simu Liu. A Robust and Globally-Accurate Hierarchical Hub Labeling Index for SP-Distance Queries in Dynamic Road Networks. In ICDE 2026. (Top-tier Conference in Data Engineering, CCF A)
 
-[2] Ziqiang Yu, Xiaohui Yu, Yueting Chen, Wei Liu, Anbang Song, Bolong Zheng. Flexible Keyword-Aware Top-k Route Search. Flexible Keyword-Aware Top-k Route Search.  IEEE Transactions on Knowledge and Data Engineering, 2025，37(12): 7184-7198.  ( CCF A类期刊，数据科学领域国际顶级期刊)
+[2] Ziqiang Yu, Xiaohui Yu, Yueting Chen, Wei Liu, Anbang Song, Bolong Zheng. Flexible Keyword-Aware Top-k Route Search. Flexible Keyword-Aware Top-k Route Search.  IEEE Transactions on Knowledge and Data Engineering, 2025，37(12): 7184-7198.  (Top-tier Journal, CCF A)
 
-[3] Yue Chen, Yinan Jing, Ziqiang Yu, Xiaohui Yu, Zhenying He, Kai Zhang, X. Sean Wang. ARC: Approximate Relevant Clip Query in Large-Scale Video Repositories. In SIGIR 2025. (CCF A类会议，信息检索领域国际顶级会议)
+[3] Yue Chen, Yinan Jing, Ziqiang Yu, Xiaohui Yu, Zhenying He, Kai Zhang, X. Sean Wang. ARC: Approximate Relevant Clip Query in Large-Scale Video Repositories. In SIGIR 2025. (Top-tier Conference in Information Retrieval, CCF A)
 
-[4] Ziqiang Yu, Xiaohui Yu, Nick Koudas, Yueting Chen, Yang Liu. A Distributed Solution for Efficient K Shortest Paths Computation Over Dynamic Road Networks. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(7): 2759-2773.  ( CCF A类期刊，数据科学领域国际顶级期刊)
+[4] Ziqiang Yu, Xiaohui Yu, Nick Koudas, Yueting Chen, Yang Liu. A Distributed Solution for Efficient K Shortest Paths Computation Over Dynamic Road Networks. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(7): 2759-2773.  (CCF A)
 
-[5] Ziqiang Yu, Xiaohui Yu, Tao Zhou, Yueting Chen, Yang Liu, Bohan Li. ODIN: Object Density Aware Index for CkNN Queries over Moving Objects on Road Networks. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(11): 6758-6772.  ( CCF A类期刊，数据科学领域国际顶级期刊)
+[5] Ziqiang Yu, Xiaohui Yu, Tao Zhou, Yueting Chen, Yang Liu, Bohan Li. ODIN: Object Density Aware Index for CkNN Queries over Moving Objects on Road Networks. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(11): 6758-6772.  (CCF A)
 
-[6] Ziqiang Yu, Xiaohui Yu, Nick Koudas, Yang Liu, Yifan Li, Yueting Chen, Dingyu Yang: Distributed Processing of k Shortest Path Queries over Dynamic Road Networks. In SIGMOD 2020.( CCF A类会议，数据科学领域国际顶级会议)
+[6] Ziqiang Yu, Xiaohui Yu, Nick Koudas, Yang Liu, Yifan Li, Yueting Chen, Dingyu Yang: Distributed Processing of k Shortest Path Queries over Dynamic Road Networks. In SIGMOD 2020.(Top-tier Conference in Data Management, CCF A)
 
-[7] Ziqiang Yu, Yang Liu, Xiaohui Yu, Ken Q. Pu: Scalable Distributed Processing of K Nearest Neighbor Queries over Moving Objects. IEEE Transactions on Knowledge and Data Engineering. 27(5): 1383-1396 (2015)（CCF A类期刊，数据科学领域国际顶级期刊）
+[7] Ziqiang Yu, Yang Liu, Xiaohui Yu, Ken Q. Pu: Scalable Distributed Processing of K Nearest Neighbor Queries over Moving Objects. IEEE Transactions on Knowledge and Data Engineering. 27(5): 1383-1396 (2015)（CCF A）
 
-[8] Yueting Chen, Nick Koudas, Xiaohui Yu, Ziqiang Yu: Spatial and Temporal Constrained Ranked Retrieval over Videos. In VLDB 2022. (CCF A类会议，数据科学领域国际顶级会议)
+[8] Yueting Chen, Nick Koudas, Xiaohui Yu, Ziqiang Yu: Spatial and Temporal Constrained Ranked Retrieval over Videos. In VLDB 2022. (CCF A)
 
-[9] Yueting Chen, Xiaohui Yu, Nick Koudas, Ziqiang Yu: Evaluating Temporal Queries Over Video Feeds. In SIGMOD 2021. (CCF A类会议，数据科学领域国际顶级会议）
+[9] Yueting Chen, Xiaohui Yu, Nick Koudas, Ziqiang Yu: Evaluating Temporal Queries Over Video Feeds. In SIGMOD 2021. (CCF A）
 
-[10] Ziqiang Yu, Xiaohui Yu, Yang Liu, Wenzhu Li, Jian Pei: Mining Frequent Co-occurrence Patterns across Multiple Data Streams. In EDBT 2015. (CCF B类会议，数据科学领域国际知名会议)
+[10] Ziqiang Yu, Xiaohui Yu, Yang Liu, Wenzhu Li, Jian Pei: Mining Frequent Co-occurrence Patterns across Multiple Data Streams. In EDBT 2015. (CCF B)
 
-[11] Ziqiang Yu, Abraham A, Yu X, et al. Improving the effectiveness of keyword search in databases using query logs[J]. Engineering Applications of Artificial Intelligence, 2019:  81: 169-179. (中科院一区，Top)
+[11] Ziqiang Yu, Abraham A, Yu X, et al. Improving the effectiveness of keyword search in databases using query logs[J]. Engineering Applications of Artificial Intelligence, 2019:  81: 169-179. (JCR Tier 1, Top Journal)
 
-[12] Xiaohui Yu, Ziqiang Yu*, Yang Liu, Huxia Shi: CI-Rank: Collective importance ranking for keyword search in databases. Information Sciences. 384: 1-20 (2017) (CCF B类期刊，中科院二区)
+[12] Xiaohui Yu, Ziqiang Yu*, Yang Liu, Huxia Shi: CI-Rank: Collective importance ranking for keyword search in databases. Information Sciences. 384: 1-20 (2017) (CCF B)
 
-[13] Cheng Tian, Ziqiang Yu*, Xiaohui Yu, Yang Liu, Wei Liu, and Chaofan Wang. Large-scale trajectory clustering with LSH. Frontier of Computer Science. 20(9), 2026. (CCF B类期刊)
+[13] Cheng Tian, Ziqiang Yu*, Xiaohui Yu, Yang Liu, Wei Liu, and Chaofan Wang. Large-scale trajectory clustering with LSH. Frontier of Computer Science. 20(9), 2026. (CCF B)
 
 [14] Kun Ma, Bo Yang, Zhe Yang, Ziqiang Yu*: Segment access-aware dynamic semantic cache in cloud computing environment. Journal of Parallel and Distributed Computing. 110: 42-51 (2017)（CCF B类期刊）
 
-[15] 于自强, 禹晓辉, 董吉文, 王琳. 分布式多数据流频繁伴随模式挖掘[J]. 软件学报，2019,30(04):1078-1093.（CCF T1类中文期刊）
+[15] Ziqiang Yu, Xiaohui Yu, Jiwen Dong, Lin Wang. "Mining Frequent Co-occurrence Patterns across Multiple Data Streams." Journal of Software, 2019, 30(04): 1078-1093. (In Chinese, CCF T1, Top-tier Chinese Journal)
 
-[16] 韩士元, 何清, 于自强*, 童向荣, 郑渤龙. 面向移动对象连续k近邻查询的双层索引结构. 软件学报, 2023,34(6):2789−2803 （通讯作者，T1类中文期刊）
+[16] Shiyuan Han, Qing He, Ziqiang Yu*, Xiangrong Tong, Bolong Zheng. "A Two-layer Index Structure for Continuous k-Nearest Neighbor Queries over Moving Objects." Journal of Software, 2023, 34(6): 2789-2803. (In Chinese, CCF T1, Corresponding Author)
 
-[17] Anbang Song, Ziqiang Yu*, Wei Liu, Yating Xu, Mingjin Tao.BRkNN-light: Batch Processing of Reverse k-Nearest Neighbor Queries for Moving Objects on Road Networks. In SSTD 2025. (CCF C会议，时空数据领域国际知名会议)
+[17] Anbang Song, Ziqiang Yu*, Wei Liu, Yating Xu, Mingjin Tao.BRkNN-light: Batch Processing of Reverse k-Nearest Neighbor Queries for Moving Objects on Road Networks. In SSTD 2025. (International Symposium on Spatial and Temporal Data, CCF C)
 
-[18 ]Jin Zhou, Hao Teng, Ziqiang Yu*, Dong Wang, Jiaqi Wang: Distributed Processing of Continuous Range Queries Over Moving Objects. Intelligent Computing Theories and Application: 13th International Conference, ICIC 2017: 800-810（CCF C类会议）
+[18 ]Jin Zhou, Hao Teng, Ziqiang Yu*, Dong Wang, Jiaqi Wang: Distributed Processing of Continuous Range Queries Over Moving Objects. Intelligent Computing Theories and Application: 13th International Conference, ICIC 2017: 800-810（International Conference on Intelligent Computing, CCF C）
 
-[19] Jing Zhou, Yang Liu, Ziqiang Yu: Improving the Effectiveness of Keyword Search in Databases Using Query Logs. Web-Age Information Management: 16th International Conference, WAIM 2015: 193-206 (Best Paper Award, CCF C类会议)
-
- 
-
-获奖：
-
-山东省人工智能自然科学二等奖（首位）
-
-ACM中国理事会（济南）学术新星奖
-
-ACM 中国理事会（济南）优博奖
-
-第九届中国智能技术与大数据会议优秀论文
-
-CCF C类会议WAIM最佳论文
+[19] Jing Zhou, Yang Liu, Ziqiang Yu: Improving the Effectiveness of Keyword Search in Databases Using Query Logs. Web-Age Information Management: 16th International Conference, WAIM 2015: 193-206 (Best Paper Award, CCF C)
 
  
 
-主持科研项目：
+Honors：
 
-国家自然科学基金面上项目，时空敏感的视频数据结构化查询关键技术研究，2022.01-2025.12，主持，结题
+Second Prize, Shandong Provincial Natural Science Award (Artificial Intelligence), Rank 1.
+Research Rising Star Award, ACM China Council (Jinan Chapter).
+Excellent Doctoral Dissertation Award, ACM China Council (Jinan Chapter).
+Best Paper Award, The 16th International Conference on Web-Age Information Management (WAIM 2015).
+Outstanding Paper Award, The 9th China Conference on Intelligent Technology and Big Data.
 
-国家自然科学基金青年项目，面向出行服务中海量时空数据连续查询的分布式计算方法，2018.01-2020.12，主持，结题  
+ 
 
-山东省自然科学基金面上项目 面向自然语言交互场景的视频时空结构化查询关键技术研究，2025.010-2028.09，主持、在研
+Research Projects：
 
-CCF-华为胡杨林基金，面向视频数据的时空结构化查询问题技术研究，2024.1-2024.12，主持，结题
-
-山东省重点研发计划，面向城市出行服务的海量时空数据分布式处理平台研究，主持，2018.01-2019.12，结题  
-
-山东省中青年科学家科研奖励基金，大规模移动对象k近邻查询关键技术研究，2016.11-2018.11，主持，结题
+Principal Investigator, "Research on Key Technologies for Spatio-temporal Sensitive Structured Queries in Video Data," National Natural Science Foundation of China (NSFC) - General Program, Jan. 2022 – Dec. 2025. (Status: Completed)
+Principal Investigator, "Research on Key Technologies for Video Spatio-temporal Structured Queries in Natural Language Interaction Scenarios," Shandong Provincial Natural Science Foundation - General Program, Oct. 2025 – Sep. 2028. (Status: Ongoing)
+Principal Investigator, "Research on Spatio-temporal Structured Query Technologies for Video Data," CCF-Huawei Populus Foundation, Jan. 2024 – Dec. 2024. (Status: Completed)
+Principal Investigator, "Distributed Computing Methods for Continuous Queries of Massive Spatio-temporal Data in Mobility Services," National Natural Science Foundation of China (NSFC) - Young Scientists Fund, Jan. 2018 – Dec. 2020. (Status: Completed)
+Principal Investigator, "Research on Distributed Processing Platform for Massive Spatio-temporal Data in Urban Mobility Services," Shandong Provincial Key Research and Development Program, Jan. 2018 – Dec. 2019. (Status: Completed)
+Principal Investigator, "Research on Key Technologies for K-Nearest Neighbor Queries over Large-scale Moving Objects," Shandong Provincial Science and Technology Research Award Fund for Young and Middle-aged Scientists, Nov. 2016 – Nov. 2018. (Status: Completed)
 
 
 
