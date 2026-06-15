@@ -73,9 +73,13 @@ Representative Publications
 Honors：
 
 Second Prize, Shandong Provincial Natural Science Award (Artificial Intelligence), Rank 1.
+
 Research Rising Star Award, ACM China Council (Jinan Chapter).
+
 Excellent Doctoral Dissertation Award, ACM China Council (Jinan Chapter).
+
 Best Paper Award, The 16th International Conference on Web-Age Information Management (WAIM 2015).
+
 Outstanding Paper Award, The 9th China Conference on Intelligent Technology and Big Data.
 
  
@@ -83,10 +87,15 @@ Outstanding Paper Award, The 9th China Conference on Intelligent Technology and 
 Research Projects：
 
 Principal Investigator, "Research on Key Technologies for Spatio-temporal Sensitive Structured Queries in Video Data," National Natural Science Foundation of China (NSFC) - General Program, Jan. 2022 – Dec. 2025. (Status: Completed)
+
 Principal Investigator, "Research on Key Technologies for Video Spatio-temporal Structured Queries in Natural Language Interaction Scenarios," Shandong Provincial Natural Science Foundation - General Program, Oct. 2025 – Sep. 2028. (Status: Ongoing)
+
 Principal Investigator, "Research on Spatio-temporal Structured Query Technologies for Video Data," CCF-Huawei Populus Foundation, Jan. 2024 – Dec. 2024. (Status: Completed)
+
 Principal Investigator, "Distributed Computing Methods for Continuous Queries of Massive Spatio-temporal Data in Mobility Services," National Natural Science Foundation of China (NSFC) - Young Scientists Fund, Jan. 2018 – Dec. 2020. (Status: Completed)
+
 Principal Investigator, "Research on Distributed Processing Platform for Massive Spatio-temporal Data in Urban Mobility Services," Shandong Provincial Key Research and Development Program, Jan. 2018 – Dec. 2019. (Status: Completed)
+
 Principal Investigator, "Research on Key Technologies for K-Nearest Neighbor Queries over Large-scale Moving Objects," Shandong Provincial Science and Technology Research Award Fund for Young and Middle-aged Scientists, Nov. 2016 – Nov. 2018. (Status: Completed)
 
 
