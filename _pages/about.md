@@ -71,7 +71,7 @@ Representative Publications
  
 
 Honors：
-
+======
 Second Prize, Shandong Provincial Natural Science Award (Artificial Intelligence), Rank 1.
 
 Research Rising Star Award, ACM China Council (Jinan Chapter).
@@ -85,7 +85,7 @@ Outstanding Paper Award, The 9th China Conference on Intelligent Technology and 
  
 
 Research Projects：
-
+======
 Principal Investigator, "Research on Key Technologies for Spatio-temporal Sensitive Structured Queries in Video Data," National Natural Science Foundation of China (NSFC) - General Program, Jan. 2022 – Dec. 2025. (Status: Completed)
 
 Principal Investigator, "Research on Key Technologies for Video Spatio-temporal Structured Queries in Natural Language Interaction Scenarios," Shandong Provincial Natural Science Foundation - General Program, Oct. 2025 – Sep. 2028. (Status: Ongoing)
