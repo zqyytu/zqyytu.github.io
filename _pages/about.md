@@ -17,7 +17,9 @@ Work Experience
 - **2020.02 - Present**, Professor, Master's Supervisor, Yantai University
 - **2018.04 - 2019.04**, Assistant Researcher, York University
 - **2015.07 - 2020.01**, Lecturer, Jinan University
-  
+
+<br>
+
 Research Interests
 ======
 - **AI and Database Systems**: Leveraging database theories and techniques to enhance the training, reasoning, and generation capabilities of AI models.
