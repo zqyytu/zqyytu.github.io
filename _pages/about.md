@@ -29,6 +29,7 @@ Research Interests
 
 Our research findings have been published in premier international conferences and journals in the field of data science, including **SIGMOD, VLDB, ICDE, SIGIR, and TKDE**, which represent the highest level of research in the discipline. We warmly welcome highly motivated undergraduate and graduate students with strong academic aspirations and research interests to join our research group.
 
+<br>
 
 Representative Publications
 ======
@@ -70,7 +71,7 @@ Representative Publications
 
 [19] Jing Zhou, Yang Liu, Ziqiang Yu: Improving the Effectiveness of Keyword Search in Databases Using Query Logs. Web-Age Information Management: 16th International Conference, WAIM 2015: 193-206 (Best Paper Award, CCF C)
 
- 
+ <br>
 
 Honors：
 ======
@@ -84,7 +85,7 @@ Best Paper Award, The 16th International Conference on Web-Age Information Manag
 
 Outstanding Paper Award, The 9th China Conference on Intelligent Technology and Big Data.
 
- 
+ <br>
 
 Research Projects：
 ======
